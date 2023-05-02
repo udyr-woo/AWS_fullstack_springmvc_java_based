@@ -1,0 +1,8 @@
+.classpath
+.project
+.springBeans
+src/main/webapp/resources/vendor
+target
+.settings
+jdbc.properties
+src/test/java/cloud/bluetea/persistence/JDBCTests.java
